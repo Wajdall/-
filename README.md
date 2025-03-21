@@ -1,4 +1,4 @@
-# -## Overview of the "حيّك" Website
+# Overview of the "حيّك" Website
 Our website "حيّك" is your go-to platform for everything happening in your neighborhood. 
 It’s designed to easily find the latest information about essential local resources, 
 including healthcare services, schools, restaurants, beauty salons, and community events. 
